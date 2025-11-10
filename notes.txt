@@ -1,1 +1,2 @@
-##content
+This is our DevOps collaboration file.
+Student A added this line.
